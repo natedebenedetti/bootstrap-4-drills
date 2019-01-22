@@ -1,0 +1,7 @@
+/* this was css to style the background of the container and then renamed container-fluid to change styling when container was changed to container-fluid 
+.container-fluid {
+    background-color: blue;
+    height: 500px;
+}
+*/
+
